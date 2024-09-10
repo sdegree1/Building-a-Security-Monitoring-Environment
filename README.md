@@ -9,11 +9,11 @@ Project consists of using Defensive Security skills and designing a custom monit
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Splunk</b> 
+- <b>Splunk: (Reporting, Alerting, Dashboards) Splunk Processing Language (SPL)</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Azure Web Lab</b>
+- <b>Azure Web Lab, Windows 10</b>
 
 <h2>Project Objectives:</h2>
 
